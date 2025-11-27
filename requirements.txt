@@ -1,0 +1,3 @@
+nltk
+spacy
+en-core-web-sm
